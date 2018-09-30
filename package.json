@@ -1,0 +1,42 @@
+{
+  "name": "mws-restaurant-stage-1",
+  "version": "1.0.0",
+  "description": "Stage 2 for Google Scholar program, making project more reponsive and recieve data from server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grizzly82/mws-restaurant-stage-1.git"
+  },
+  "keywords": [
+    "google",
+    "scholar",
+    "restaurant"
+  ],
+  "author": "Cris Vizcaino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grizzly82/mws-restaurant-stage-1/issues"
+  },
+  "homepage": "https://github.com/Grizzly82/mws-restaurant-stage-1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-image": "^4.3.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-serve": "^1.4.0",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref": "^3.1.5",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "gulp-css-scss": "^0.1.0",
+    "gulp-cssnano": "^2.1.3"
+  }
+}
